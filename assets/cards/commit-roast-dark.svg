@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="214" viewBox="0 0 400 214" role="img" aria-label="commit-roast: Roasts your git commit messages. Offline, no AI.">
+<style>.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Nirmala UI', 'Kohinoor Devanagari', 'Noto Sans Devanagari', monospace;white-space:pre}.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'Nirmala UI', 'Kohinoor Devanagari', 'Noto Sans Devanagari', sans-serif}</style>
+<rect x=".5" y=".5" width="399" height="213" rx="10" fill="#151b23" stroke="#2a313c"/>
+<text x="20" y="35" class="s" font-size="16" font-weight="600" fill="#e6edf3">commit-roast</text>
+<text x="380" y="34" class="m" font-size="11" text-anchor="end" fill="#656c76">npx</text>
+<text x="20" y="57" class="s" font-size="12.5" fill="#9198a1">Roasts your git commit messages. Offline, no AI.</text>
+<rect x="12" y="72" width="376" height="130" rx="7" fill="#0d1117" stroke="#2a313c" stroke-opacity=".7"/>
+<text x="26" y="95" class="m" font-size="12"><tspan fill="#656c76">$ </tspan><tspan fill="#e6edf3" font-weight="700">npx commit-roast</tspan></text>
+<text x="26" y="114" class="m" font-size="12"><tspan fill="#ff7b72">✖ </tspan><tspan fill="#e6edf3">4 subjects run past 72 characters — that is</tspan></text>
+<text x="26" y="133" class="m" font-size="12"><tspan fill="#e6edf3">  not a subject, that is the body wearing a</tspan></text>
+<text x="26" y="152" class="m" font-size="12"><tspan fill="#e6edf3">  subject's coat.</tspan></text>
+<text x="26" y="171" class="m" font-size="12"><tspan fill="#9198a1">score 85/100 </tspan><tspan fill="#ff9b85">[█████████████████</tspan><tspan fill="#656c76">░░░]</tspan><tspan fill="#56d364" font-weight="700"> grade A</tspan></text>
+
+</svg>
