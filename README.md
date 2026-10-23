@@ -36,6 +36,9 @@ Small and dependency-free. The CLIs run with `npx`, nothing to install.
 
 `JavaScript` `TypeScript` `Node.js` `Bun` `Qwik` `React Native` `Expo` `C#` `.NET` `WPF` `MySQL` `Redis` `Docker` `Cloudflare`
 
-### Elsewhere
+### Get in touch
+
+**Me:** [ujjwaldadhich08@gmail.com](mailto:ujjwaldadhich08@gmail.com)<br>
+**ChapterChase support:** [help@chapterchase.com](mailto:help@chapterchase.com)
 
 [chapterchase.com](https://chapterchase.com) · [npm](https://www.npmjs.com/~ujjwaldadhich) · [Darshan Player on winget](https://github.com/microsoft/winget-pkgs/tree/master/manifests/u/UjjwalDadhich/Darshan)

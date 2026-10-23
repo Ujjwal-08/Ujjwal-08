@@ -161,7 +161,7 @@ def chapterchase(t):
         f'<text x="32" y="108" class="s" font-size="15" fill="{t["muted"]}">Read and publish novels and comics, with forums for readers</text>',
         f'<text x="32" y="128" class="s" font-size="15" fill="{t["muted"]}">and a way for authors to get paid.</text>',
         f'<text x="32" y="156" class="m" font-size="12">'
-        + spans(t, [("chapterchase.com ↗", "accent", True), ("   Qwik · Bun · Expo · Cloudflare", "dim")]) + '</text>',
+        + spans(t, [("chapterchase.com ↗", "accent", True), ("   help@chapterchase.com", "muted")]) + '</text>',
     ]
     # a shelf of books
     shelf_y, bx = 146, 622
